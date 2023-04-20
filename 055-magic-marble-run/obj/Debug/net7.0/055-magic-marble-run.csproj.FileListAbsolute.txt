@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\bin\Debug\net7.0\055-magic-marble-run.exe
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\bin\Debug\net7.0\055-magic-marble-run.deps.json
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\bin\Debug\net7.0\055-magic-marble-run.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\bin\Debug\net7.0\055-magic-marble-run.dll
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\bin\Debug\net7.0\055-magic-marble-run.pdb
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.dll
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\refint\055-magic-marble-run.dll
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.pdb
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\055-magic-marble-run.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\055-magic-marble-run\obj\Debug\net7.0\ref\055-magic-marble-run.dll
